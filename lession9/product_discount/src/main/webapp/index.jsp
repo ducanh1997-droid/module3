@@ -9,7 +9,8 @@
     <input type="text" name="description" placeholder="description"><br><br>
     <input type="text" name="price" placeholder="price"><br><br>
     <input type="text" name="discount-percent" placeholder="discount-percent"><br><br>
-    <input type="submit" name="submit" value="Calculate Discount">
+    <input type="submit" name="submit" value="Calcul
+    ate Discount">
 </form>
 </body>
 </html>
